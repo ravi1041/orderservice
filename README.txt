@@ -39,7 +39,7 @@ Prerequisites
 	
 Getting Started
 1. Clone the Repository
-	git clone https://github.com/your-username/orderservice.git
+	git clone https://github.com/ravi1041/orderservice.git
 	cd orderservice
 	
 2. Build the Application
